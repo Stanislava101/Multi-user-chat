@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../jars/commons-3.3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jars/commons-lang3-3.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jars/logback-classic-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jars/logback-core-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jars/slf4j-api-1.7.7.jar!/" />
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../BlogPIKKontrolno1/src" />
+          <root url="file://$MODULE_DIR$/../CarExercise/src" />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../Client/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/Client/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/Kancelariq/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/reshenie/Upr15Secretary/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/reshenie/Upr15Server/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/reshenie/Upr15Student/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/reshenie/docslib/src" />
+          <root url="file://$MODULE_DIR$/../F_Petrov_2kontrolno/src" />
+          <root url="file://$MODULE_DIR$/../Factorial/FClient/src" />
+          <root url="file://$MODULE_DIR$/../Factorial/FServer/src" />
+          <root url="file://$MODULE_DIR$/../FirstSocketApp/src" />
+          <root url="file://$MODULE_DIR$/../HotelReservationPIK/Client/src" />
+          <root url="file://$MODULE_DIR$/../HotelReservationPIK/src" />
+          <root url="file://$MODULE_DIR$/../MultiThread2/Client/src" />
+          <root url="file://$MODULE_DIR$/../MultiThread2/Server/src" />
+          <root url="file://$MODULE_DIR$/../MultiThread2/src" />
+          <root url="file://$MODULE_DIR$/../MultiThread/Client/src" />
+          <root url="file://$MODULE_DIR$/../MultiThread/src" />
+          <root url="file://$MODULE_DIR$/../MultithreadedTicTacToe/src" />
+          <root url="file://$MODULE_DIR$/../Niki/src" />
+          <root url="file://$MODULE_DIR$/../Nikii/src" />
+          <root url="file://$MODULE_DIR$/../NishkiFailove/Clien3/src" />
+          <root url="file://$MODULE_DIR$/../NishkiFailove/Client1/src" />
+          <root url="file://$MODULE_DIR$/../NishkiFailove/Client2/src" />
+          <root url="file://$MODULE_DIR$/../NishkiFailove/Server2/src" />
+          <root url="file://$MODULE_DIR$/../NishkiFailove/src" />
+          <root url="file://$MODULE_DIR$/../NormalIterator/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/ArrayOfObjects2/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/ArrayOfObjects3/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/ArrayOfObjects/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Bo/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/CarExercise2/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Company/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/DesktopGUI/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/EcommerceSAPProject/.mvn/wrapper" />
+          <root url="file://$MODULE_DIR$/../PIK3/EcommerceSAPProject/src/main/java" />
+          <root url="file://$MODULE_DIR$/../PIK3/EcommerceSAPProject/src/test/java" />
+          <root url="file://$MODULE_DIR$/../PIK3/EcommerceSAP/.mvn/wrapper" />
+          <root url="file://$MODULE_DIR$/../PIK3/EcommerceSAP/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Ecommerce/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/EmoK1/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/ExceptionZad/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Factory/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/FileManipulatorSAP-main/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/FileManipulatorSAP/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/FileProcessingApplication-SAP/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/FileProcessingApplication/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/Exercise/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/FPetrov_upr6/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/KonferenciiD/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/gotsevaLekcii/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/upr511/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Konferencii/uprajnenie2910/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Kontrolno1/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/LetterExample/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/NikiBoJavaC/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/NikiSAP/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Niki/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/ProjSAP1/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/ProjSAP/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Question/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/RegLogIn/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/SAPEcommerce/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/SAPShop/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/Sisi/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/UprIvan/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/crudspring/.mvn/wrapper" />
+          <root url="file://$MODULE_DIR$/../PIK3/crudspring/src/main/java" />
+          <root url="file://$MODULE_DIR$/../PIK3/crudspring/src/test/java" />
+          <root url="file://$MODULE_DIR$/../PIK3/file_processing/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/lekciq1111/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/pik1510/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/untitled1/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/untitled/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/upr1211/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/upr1911/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/upr2210/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/upr2611/src" />
+          <root url="file://$MODULE_DIR$/../PIK3/uprajnenie2210/src" />
+          <root url="file://$MODULE_DIR$/../SAP/.mvn/wrapper" />
+          <root url="file://$MODULE_DIR$/../SAP/src/main/java" />
+          <root url="file://$MODULE_DIR$/../SAP/src/test/java" />
+          <root url="file://$MODULE_DIR$/../Server2/src" />
+          <root url="file://$MODULE_DIR$/../SocketChatApp-master/src" />
+          <root url="file://$MODULE_DIR$/../Spring/login-registration-springboot-hibernate-jsp-auth/src/main/java" />
+          <root url="file://$MODULE_DIR$/../SpringbootH2Database/src/main/java" />
+          <root url="file://$MODULE_DIR$/../TicTacToe/src" />
+          <root url="file://$MODULE_DIR$/../Uprajnenie1Zad3/src" />
+          <root url="file://$MODULE_DIR$/../WithoutThreads/Client/src" />
+          <root url="file://$MODULE_DIR$/../WithoutThreads/src" />
+          <root url="file://$MODULE_DIR$/../YouTube/Client/src" />
+          <root url="file://$MODULE_DIR$/../YouTube/Server/src" />
+          <root url="file://$MODULE_DIR$/../ZadJava/src" />
+          <root url="file://$MODULE_DIR$/../boot-sec-jdbc-authentication-with-h2-console/src/main/java" />
+          <root url="file://$MODULE_DIR$/../dGotsevaLekciq2/src" />
+          <root url="file://$MODULE_DIR$/../exercise2/src" />
+          <root url="file://$MODULE_DIR$/../intellij-database-tools-h2/.mvn/wrapper" />
+          <root url="file://$MODULE_DIR$/../intellij-database-tools-h2/src/main/java" />
+          <root url="file://$MODULE_DIR$/../intellij-database-tools-h2/src/test/java" />
+          <root url="file://$MODULE_DIR$/../pikUpr1712/src" />
+          <root url="file://$MODULE_DIR$/../ppikUpr1712zad2/src" />
+          <root url="file://$MODULE_DIR$/../someExercises/src" />
+          <root url="file://$MODULE_DIR$/../untitled/src" />
+          <root url="file://$MODULE_DIR$/../upr0701_zad1/src" />
+          <root url="file://$MODULE_DIR$/../upr1401/src" />
+          <root url="file://$MODULE_DIR$/../upr2_1401/src" />
+          <root url="file://$MODULE_DIR$/../upr312/src" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
